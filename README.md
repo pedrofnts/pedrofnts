@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 👨‍💻 Meu nome é Pedro Fontes 
-- 🏖️ Sou um desenvolvedor full stack em Aracaju, Brasil
+- 🏖️ Sou um desenvolvedor em Aracaju, Brasil
 - 📚 Atualmente curso Análise e Desenvolvimento de Sistemas 
 - 📗 E participo do Gama XP 43, na Gama Academy 
 - 🚀 Estou sempre em busca de novos projetos para contribuir e expandir meus conhecimentos
