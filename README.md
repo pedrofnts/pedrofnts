@@ -5,7 +5,6 @@
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
 - 📗 E participando do XP 43, na Gama Academy 
 - 🚀 Estou sempre em busca de novos projetos para contribuir e expandir meus conhecimentos
-- 📧 Meus contatos estão disponíveis em meu <a href="https://pfontes.me">site</a>
 <br>
 
 
