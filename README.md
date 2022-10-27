@@ -2,8 +2,7 @@
 
 - 👨‍💻 Meu nome é Pedro Fontes 
 - 🏖️ Sou um desenvolvedor de Aracaju, Brasil
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
-- 📗 E participando do XP 43, na Gama Academy 
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas  
 - 🚀 Estou sempre em busca de novos projetos para contribuir e expandir meus conhecimentos
 <br>
 
