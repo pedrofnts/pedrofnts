@@ -2,7 +2,8 @@
 
 - 👨‍💻 Meu nome é Pedro Fontes 
 - 🏖️ Sou um desenvolvedor de Aracaju, Brasil
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas  
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Sou formado em Desenvolvimento Web Fullstack pela Gama Academy 
 - 🚀 Estou sempre em busca de novos projetos para contribuir e expandir meus conhecimentos
 <br>
 
