@@ -1,6 +1,6 @@
 ### Olá! 👋 
 
-Sou um desenvolvedor fullstack com foco em back-end. Minha paixão por desenvolvimento de software nasce de traduzir ideias para gerar impacto na vida das pessoas. Tenho extrema preocupação com experiência de usuário, arquitetura, e qualidade de código. Minhas stacks principais são baseadas em JavaScript (TypeScript e frameworks Node.js) e Java, mas estou sempre aprendendo e estudando sobre novas tecnologias e frameworks, além de arquitetura de software em geral.
+Sou um desenvolvedor fullstack com foco em back-end. Minha paixão por desenvolvimento de software nasce de traduzir ideias para gerar impacto na vida das pessoas. Tenho extrema preocupação com experiência de usuário, arquitetura, e qualidade de código. Minhas stacks principais são baseadas em JavaScript (TypeScript e Node.js) e Java, mas estou sempre aprendendo e estudando sobre novas tecnologias e frameworks, além de arquitetura de software em geral.
 
 #### Skill Set
 
